@@ -1,6 +1,6 @@
 {
   "stocks": [
     {"symbol": "STG", "target_high": 10, "target_low": 2},
-    {"symbol": "000001.SZ", "target_high": 100, "target_low": 1.5}
+    {"symbol": "688981.SH", "target_high": 100, "target_low": 1.5}
   ]
 }
